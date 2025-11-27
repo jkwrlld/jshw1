@@ -27,4 +27,4 @@ let userAnswer = confirm("Ви дійсно хочете покинути сто
 console.log(userAnswer);
 
 alert("Увага! Дія може бути небезпечною.");
-let asd = confirm("Дія може бути небезпечна!");
+let asd = confirm("Ви впевнені що хочете продовжити?");
