@@ -15,3 +15,16 @@ console.log(myNumber);
 let myNull = null;
 
 console.log(myNull);
+
+const userName = prompt("Введіть своє ім’я");
+
+console.log(userName);
+
+alert(userName);
+
+let userAnswer = confirm("Ви дійсно хочете покинути сторінку?");
+
+console.log(userAnswer);
+
+alert("Увага! Дія може бути небезпечною.");
+let asd = confirm("Дія може бути небезпечна!");
